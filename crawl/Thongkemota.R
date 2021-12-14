@@ -50,7 +50,7 @@ ggplot(df,aes(x = G, y = GA,fill = Team))+
 ggplot(df,aes(x = xG, y = xGA,fill = Team))+
   geom_point(size = 3,aes(col = Team))+
   theme(legend.position = "bottom")+
-  xlab("Expected")+ylab("Expected Goal Against")+
+  xlab("Expected Goal")+ylab("Expected Goal Against")+
   ggtitle('tổng quan tổng số bàn thắng kỳ vọng và bàn thua kỳ vọng của các clb mùa giải 2020/2021')
 
 
