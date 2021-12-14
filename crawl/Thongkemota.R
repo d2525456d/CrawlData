@@ -87,3 +87,9 @@ ggplot(df,aes(x = GD, y = xGD,fill = Team))+
   geom_point(size = 3,aes(col = Team))+
   theme(legend.position = "bottom")+
   ggtitle('tổng quan Hiệu số kỳ vọng và hiệu số kỳ vọng của các clb')
+
+
+
+dt = df[order(-df$xPoint),]
+View(dt)
+
