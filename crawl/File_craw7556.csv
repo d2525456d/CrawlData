@@ -1,0 +1,301 @@
+,Home_team,Home_score,Away_score,Away_team,Home_xG,Away_xG
+0,FC Krasnodar,0,2,Dinamo Moscow,0.26,1.00
+1,FC Rostov,1,2,Zenit St. Petersburg,0.53,1.21
+2,FC Krasnodar,4,0,FK Akhmat,2.37,0.52
+3,CSKA Moscow,2,0,FC Tambov,1.24,0.02
+4,Dinamo Moscow,0,1,FC Orenburg,1.41,0.52
+5,Rubin Kazan,1,2,Spartak Moscow,1.44,2.79
+6,Krylya Sovetov Samara,3,0,PFC Sochi,0.00,0.00
+7,FC Ufa,0,0,Arsenal Tula,0.70,0.66
+8,Ural,0,1,Lokomotiv Moscow,0.90,0.86
+9,FC Krasnodar,3,0,Ural,3.87,1.14
+10,Ural,1,3,Arsenal Tula,0.41,0.93
+11,Spartak Moscow,3,0,FK Akhmat,0.89,0.26
+12,Krylya Sovetov Samara,0,0,FC Krasnodar,1.58,0.74
+13,Zenit St. Petersburg,4,1,FC Orenburg,2.35,0.95
+14,Rubin Kazan,0,0,FC Rostov,0.67,0.73
+15,FC Ufa,0,1,Dinamo Moscow,0.18,2.23
+16,FC Tambov,3,0,PFC Sochi,0.00,0.00
+17,Lokomotiv Moscow,2,1,CSKA Moscow,1.90,0.99
+18,FC Krasnodar,2,4,Zenit St. Petersburg,2.09,2.12
+19,FC Tambov,1,2,FK Akhmat,0.98,2.04
+20,Arsenal Tula,2,4,Krylya Sovetov Samara,0.61,1.39
+21,Zenit St. Petersburg,2,1,PFC Sochi,1.05,1.33
+22,FC Orenburg,0,4,CSKA Moscow,1.08,2.39
+23,Spartak Moscow,1,1,Lokomotiv Moscow,0.39,1.36
+24,FC Rostov,1,2,FC Ufa,1.54,2.52
+25,Ural,2,1,Dinamo Moscow,1.46,1.40
+26,Rubin Kazan,1,0,FC Krasnodar,1.15,0.62
+27,Arsenal Tula,2,1,FC Tambov,1.36,0.88
+28,FK Akhmat,1,1,Zenit St. Petersburg,1.04,0.77
+29,PFC Sochi,1,0,Spartak Moscow,0.05,1.08
+30,Lokomotiv Moscow,1,1,FC Ufa,1.18,1.19
+31,CSKA Moscow,1,1,Rubin Kazan,0.95,1.22
+32,Dinamo Moscow,2,0,Krylya Sovetov Samara,2.65,0.78
+33,FC Orenburg,0,0,FC Rostov,0.19,0.35
+34,Lokomotiv Moscow,1,1,Krylya Sovetov Samara,1.72,0.72
+35,CSKA Moscow,2,0,Spartak Moscow,1.03,0.97
+36,FC Ufa,0,0,Rubin Kazan,0.54,0.48
+37,FC Orenburg,0,3,Ural,0.00,0.00
+38,FC Tambov,1,2,Zenit St. Petersburg,1.22,1.57
+39,Arsenal Tula,1,3,FK Akhmat,0.84,1.13
+40,FC Rostov,1,1,FC Krasnodar,1.35,2.27
+41,PFC Sochi,1,1,Dinamo Moscow,1.08,1.22
+42,Dinamo Moscow,0,1,Arsenal Tula,1.66,1.07
+43,Spartak Moscow,2,3,FC Tambov,1.75,1.58
+44,Krylya Sovetov Samara,0,0,FC Rostov,0.40,0.52
+45,Lokomotiv Moscow,0,0,PFC Sochi,1.54,0.37
+46,FK Akhmat,0,4,CSKA Moscow,0.30,1.67
+47,FC Ufa,1,1,Ural,0.49,0.36
+48,Rubin Kazan,1,0,FC Orenburg,1.77,0.61
+49,FK Akhmat,1,1,PFC Sochi,1.92,0.67
+50,Zenit St. Petersburg,2,1,Krylya Sovetov Samara,2.97,0.31
+51,FC Orenburg,0,3,FC Krasnodar,0.00,0.00
+52,Spartak Moscow,0,0,FC Ufa,1.00,0.25
+53,Rubin Kazan,0,2,Lokomotiv Moscow,1.46,1.74
+54,Dinamo Moscow,0,0,CSKA Moscow,0.48,0.37
+55,FC Rostov,2,1,Arsenal Tula,1.55,0.85
+56,Ural,2,1,FC Tambov,1.25,0.48
+57,Krylya Sovetov Samara,2,4,FK Akhmat,1.83,3.43
+58,PFC Sochi,10,1,FC Rostov,6.07,0.11
+59,Ural,1,2,Rubin Kazan,0.77,1.20
+60,Arsenal Tula,2,3,Spartak Moscow,1.58,0.80
+61,CSKA Moscow,0,4,Zenit St. Petersburg,1.23,2.47
+62,FC Ufa,2,1,FC Tambov,2.17,0.54
+63,Lokomotiv Moscow,1,0,FC Orenburg,2.43,0.35
+64,FC Tambov,3,0,Krylya Sovetov Samara,1.63,1.47
+65,FC Rostov,3,2,CSKA Moscow,2.87,1.37
+66,Spartak Moscow,0,1,FC Krasnodar,0.67,1.76
+67,Zenit St. Petersburg,0,0,FC Ufa,1.45,1.00
+68,PFC Sochi,5,1,FC Orenburg,1.74,1.72
+69,FK Akhmat,2,3,Dinamo Moscow,1.16,1.54
+70,FC Orenburg,1,3,Spartak Moscow,1.38,1.16
+71,Zenit St. Petersburg,7,1,Ural,5.70,1.27
+72,Arsenal Tula,0,1,Rubin Kazan,0.83,0.58
+73,PFC Sochi,2,0,FC Krasnodar,1.22,0.70
+74,CSKA Moscow,0,0,FC Ufa,1.47,0.39
+75,FC Rostov,1,3,Lokomotiv Moscow,1.52,1.18
+76,FC Orenburg,2,0,Arsenal Tula,1.79,0.65
+77,Dinamo Moscow,1,0,FC Tambov,1.25,0.66
+78,Rubin Kazan,0,1,Krylya Sovetov Samara,0.54,1.22
+79,PFC Sochi,2,0,Ural,1.35,0.20
+80,Lokomotiv Moscow,1,0,FK Akhmat,0.97,1.34
+81,Krylya Sovetov Samara,1,1,FC Orenburg,1.64,1.27
+82,CSKA Moscow,1,1,Ural,1.29,1.29
+83,Dinamo Moscow,0,2,Spartak Moscow,0.77,2.07
+84,Zenit St. Petersburg,0,0,Lokomotiv Moscow,0.71,0.79
+85,FK Akhmat,1,1,FC Rostov,1.37,1.43
+86,FC Tambov,0,0,Rubin Kazan,0.68,0.55
+87,FC Krasnodar,2,0,FC Ufa,2.25,0.27
+88,PFC Sochi,1,2,Arsenal Tula,2.14,0.95
+89,FC Krasnodar,0,0,FC Tambov,1.31,0.72
+90,CSKA Moscow,0,1,Arsenal Tula,0.74,0.98
+91,Arsenal Tula,4,0,Lokomotiv Moscow,1.34,1.11
+92,Zenit St. Petersburg,3,0,Dinamo Moscow,1.28,0.26
+93,FC Tambov,3,0,FC Orenburg,0.99,0.98
+94,FC Krasnodar,1,1,CSKA Moscow,1.55,0.62
+95,FK Akhmat,0,1,FC Ufa,0.41,0.77
+96,Krylya Sovetov Samara,2,3,Ural,0.62,1.98
+97,PFC Sochi,1,1,Rubin Kazan,1.16,1.04
+98,Spartak Moscow,1,4,FC Rostov,1.90,3.58
+99,Krylya Sovetov Samara,0,1,FC Ufa,0.75,0.77
+100,FC Rostov,0,0,Ural,0.79,0.28
+101,FK Akhmat,1,1,Rubin Kazan,1.31,0.88
+102,Lokomotiv Moscow,1,2,Dinamo Moscow,1.83,2.16
+103,Zenit St. Petersburg,1,0,Spartak Moscow,1.46,0.88
+104,FC Tambov,2,3,Lokomotiv Moscow,0.62,0.83
+105,FC Orenburg,1,2,FK Akhmat,1.87,1.20
+106,Rubin Kazan,1,2,Zenit St. Petersburg,1.09,1.76
+107,Dinamo Moscow,2,1,FC Rostov,2.02,1.87
+108,FC Ufa,1,1,PFC Sochi,1.14,1.01
+109,Ural,0,0,Spartak Moscow,0.67,2.47
+110,Arsenal Tula,1,2,FC Krasnodar,1.37,1.33
+111,CSKA Moscow,1,0,Krylya Sovetov Samara,1.25,0.66
+112,Ural,1,2,FC Orenburg,1.60,1.35
+113,Krylya Sovetov Samara,0,0,Rubin Kazan,1.20,0.61
+114,Spartak Moscow,0,1,Arsenal Tula,2.24,0.43
+115,FK Akhmat,0,0,Ural,0.83,1.42
+116,Rubin Kazan,0,1,Dinamo Moscow,0.39,1.58
+117,FC Rostov,1,2,FC Tambov,0.98,0.71
+118,Spartak Moscow,2,0,Krylya Sovetov Samara,3.07,0.49
+119,FC Orenburg,0,0,FC Ufa,0.73,0.30
+120,Arsenal Tula,0,1,Zenit St. Petersburg,0.83,2.60
+121,PFC Sochi,2,3,CSKA Moscow,1.05,1.45
+122,Lokomotiv Moscow,1,1,FC Krasnodar,1.02,1.67
+123,FC Ufa,1,1,Lokomotiv Moscow,1.22,0.87
+124,Dinamo Moscow,1,1,FK Akhmat,1.02,1.46
+125,PFC Sochi,1,2,FC Tambov,1.20,1.61
+126,Zenit St. Petersburg,1,1,CSKA Moscow,1.78,0.73
+127,FC Krasnodar,2,2,FC Rostov,2.61,0.62
+128,Dinamo Moscow,1,1,FC Krasnodar,1.58,0.92
+129,Rubin Kazan,0,0,Ural,1.55,0.63
+130,FC Tambov,3,0,FC Ufa,1.21,0.29
+131,FK Akhmat,1,1,Arsenal Tula,1.29,1.28
+132,FC Rostov,2,0,PFC Sochi,1.54,1.09
+133,Krylya Sovetov Samara,0,2,Zenit St. Petersburg,0.15,1.92
+134,CSKA Moscow,0,1,Dinamo Moscow,1.23,0.86
+135,Lokomotiv Moscow,0,3,Spartak Moscow,0.82,1.63
+136,FC Krasnodar,1,1,FC Orenburg,1.34,1.32
+137,FK Akhmat,0,2,Lokomotiv Moscow,0.47,1.18
+138,FC Tambov,1,2,Ural,1.44,1.60
+139,Spartak Moscow,0,0,Rubin Kazan,1.24,0.66
+140,Zenit St. Petersburg,6,1,FC Rostov,3.68,1.02
+141,FC Orenburg,0,1,Krylya Sovetov Samara,1.29,0.69
+142,FC Ufa,1,1,CSKA Moscow,1.68,1.21
+143,Arsenal Tula,1,1,PFC Sochi,3.40,0.45
+144,FC Krasnodar,2,1,Spartak Moscow,1.64,1.00
+145,PFC Sochi,2,0,FK Akhmat,1.81,0.75
+146,FC Ufa,0,1,FK Akhmat,0.65,1.41
+147,FC Orenburg,2,0,Dinamo Moscow,1.82,0.72
+148,Rubin Kazan,2,1,FC Tambov,2.69,1.17
+149,PFC Sochi,0,2,Krylya Sovetov Samara,0.86,2.47
+150,Ural,1,3,Zenit St. Petersburg,0.65,2.37
+151,Lokomotiv Moscow,2,1,Arsenal Tula,2.15,0.29
+152,CSKA Moscow,1,3,FC Rostov,1.82,1.90
+153,Krylya Sovetov Samara,2,0,FC Tambov,1.76,0.23
+154,FC Rostov,3,0,Dinamo Moscow,0.99,0.82
+155,Lokomotiv Moscow,1,0,Zenit St. Petersburg,0.76,0.25
+156,Ural,0,3,CSKA Moscow,0.87,2.38
+157,Rubin Kazan,0,0,FC Ufa,0.34,0.10
+158,Spartak Moscow,1,2,FC Orenburg,1.73,0.70
+159,FC Krasnodar,2,0,Arsenal Tula,1.96,1.80
+160,Dinamo Moscow,0,0,FC Ufa,2.34,0.66
+161,FC Rostov,2,1,FK Akhmat,1.64,0.90
+162,FC Ufa,1,0,Spartak Moscow,0.92,2.44
+163,FK Akhmat,1,1,Krylya Sovetov Samara,1.51,2.59
+164,FC Tambov,2,1,FC Rostov,2.29,1.73
+165,Zenit St. Petersburg,5,0,Rubin Kazan,3.67,0.22
+166,FC Orenburg,2,3,Lokomotiv Moscow,1.96,2.89
+167,Dinamo Moscow,2,3,PFC Sochi,0.73,1.18
+168,Arsenal Tula,1,1,Ural,1.18,1.22
+169,CSKA Moscow,3,2,FC Krasnodar,1.63,0.90
+170,Zenit St. Petersburg,3,1,Arsenal Tula,3.47,0.76
+171,Spartak Moscow,1,2,Ural,0.84,0.65
+172,PFC Sochi,0,1,Lokomotiv Moscow,0.70,1.51
+173,FC Orenburg,2,1,Rubin Kazan,3.47,1.07
+174,FC Tambov,0,2,CSKA Moscow,0.51,1.89
+175,FC Krasnodar,4,2,Krylya Sovetov Samara,1.94,2.41
+176,Spartak Moscow,0,1,Zenit St. Petersburg,0.64,0.90
+177,Krylya Sovetov Samara,1,2,Spartak Moscow,1.09,1.80
+178,FC Rostov,2,1,Rubin Kazan,1.48,0.48
+179,Arsenal Tula,2,1,FC Orenburg,0.49,1.20
+180,Ural,3,1,PFC Sochi,2.45,1.20
+181,Krylya Sovetov Samara,0,0,Dinamo Moscow,0.63,1.35
+182,FC Ufa,1,2,FC Orenburg,1.21,1.83
+183,Rubin Kazan,0,3,PFC Sochi,1.17,3.21
+184,Lokomotiv Moscow,1,2,FC Rostov,2.18,1.88
+185,FK Akhmat,1,1,FC Tambov,0.86,0.15
+186,Ural,2,4,FC Krasnodar,0.80,1.33
+187,Arsenal Tula,1,2,CSKA Moscow,0.62,2.09
+188,Dinamo Moscow,1,2,Lokomotiv Moscow,0.48,2.35
+189,Spartak Moscow,2,1,CSKA Moscow,2.18,1.30
+190,FC Tambov,0,2,Dinamo Moscow,0.83,1.43
+191,FC Ufa,1,0,Zenit St. Petersburg,1.06,1.54
+192,FC Krasnodar,1,1,Lokomotiv Moscow,1.15,0.66
+193,CSKA Moscow,3,0,FK Akhmat,2.41,0.66
+194,CSKA Moscow,0,0,PFC Sochi,0.66,0.71
+195,FK Akhmat,1,3,Spartak Moscow,1.01,0.80
+196,FC Rostov,1,0,Krylya Sovetov Samara,1.22,0.41
+197,FC Orenburg,1,1,PFC Sochi,0.96,1.15
+198,Ural,1,3,Krylya Sovetov Samara,0.89,1.95
+199,FC Tambov,0,2,FC Krasnodar,0.40,1.19
+200,Zenit St. Petersburg,0,0,FK Akhmat,2.91,0.41
+201,Rubin Kazan,1,0,Arsenal Tula,0.98,0.97
+202,FC Ufa,2,0,FC Rostov,0.90,0.81
+203,Rubin Kazan,0,1,CSKA Moscow,1.03,1.22
+204,PFC Sochi,0,0,FC Ufa,0.75,0.31
+205,FK Akhmat,2,1,FC Orenburg,0.54,0.37
+206,FC Orenburg,2,2,FC Tambov,1.96,1.04
+207,FC Krasnodar,1,0,Rubin Kazan,2.07,0.97
+208,Dinamo Moscow,0,2,Zenit St. Petersburg,0.87,1.81
+209,Arsenal Tula,1,0,FC Ufa,1.03,0.61
+210,Lokomotiv Moscow,4,0,Ural,4.59,0.90
+211,Rubin Kazan,1,0,FK Akhmat,1.45,0.80
+212,Ural,2,2,FC Rostov,1.66,2.14
+213,Krylya Sovetov Samara,1,2,Lokomotiv Moscow,1.05,3.06
+214,Spartak Moscow,0,0,Dinamo Moscow,0.58,0.84
+215,Zenit St. Petersburg,1,1,FC Krasnodar,1.69,0.18
+216,FC Tambov,0,1,Arsenal Tula,0.59,1.00
+217,PFC Sochi,0,2,Zenit St. Petersburg,0.45,3.50
+218,Dinamo Moscow,2,0,Ural,1.70,0.65
+219,FC Ufa,2,1,Krylya Sovetov Samara,0.94,0.95
+220,FC Tambov,2,0,Spartak Moscow,1.74,0.84
+221,FC Krasnodar,3,0,PFC Sochi,2.78,0.64
+222,FC Orenburg,0,2,Zenit St. Petersburg,1.96,2.05
+223,Arsenal Tula,2,3,FC Rostov,1.15,1.26
+224,CSKA Moscow,1,0,Lokomotiv Moscow,1.22,0.66
+225,FK Akhmat,1,0,FC Krasnodar,2.16,1.04
+226,Lokomotiv Moscow,1,1,Rubin Kazan,2.42,1.17
+227,FC Ufa,2,3,FC Krasnodar,1.13,1.77
+228,Krylya Sovetov Samara,2,3,Arsenal Tula,1.16,1.25
+229,CSKA Moscow,2,1,FC Orenburg,1.51,0.78
+230,FC Rostov,2,2,Spartak Moscow,2.57,1.78
+231,Ural,3,0,FK Akhmat,2.45,1.42
+232,Lokomotiv Moscow,2,1,FC Tambov,1.17,0.77
+233,Dinamo Moscow,0,1,Rubin Kazan,2.52,1.24
+234,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+235,Ural,3,2,FC Ufa,1.21,1.65
+236,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+237,FC Rostov,2,1,FC Orenburg,0.77,0.70
+238,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+239,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+240,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+241,Ural,3,2,FC Ufa,1.21,1.65
+242,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+243,FC Rostov,2,1,FC Orenburg,0.77,0.70
+244,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+245,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+246,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+247,Ural,3,2,FC Ufa,1.21,1.65
+248,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+249,FC Rostov,2,1,FC Orenburg,0.77,0.70
+250,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+251,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+252,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+253,Ural,3,2,FC Ufa,1.21,1.65
+254,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+255,FC Rostov,2,1,FC Orenburg,0.77,0.70
+256,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+257,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+258,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+259,Ural,3,2,FC Ufa,1.21,1.65
+260,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+261,FC Rostov,2,1,FC Orenburg,0.77,0.70
+262,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+263,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+264,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+265,Ural,3,2,FC Ufa,1.21,1.65
+266,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+267,FC Rostov,2,1,FC Orenburg,0.77,0.70
+268,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+269,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+270,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+271,Ural,3,2,FC Ufa,1.21,1.65
+272,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+273,FC Rostov,2,1,FC Orenburg,0.77,0.70
+274,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+275,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+276,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+277,Ural,3,2,FC Ufa,1.21,1.65
+278,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+279,FC Rostov,2,1,FC Orenburg,0.77,0.70
+280,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+281,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+282,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+283,Ural,3,2,FC Ufa,1.21,1.65
+284,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+285,FC Rostov,2,1,FC Orenburg,0.77,0.70
+286,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+287,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+288,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+289,Ural,3,2,FC Ufa,1.21,1.65
+290,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+291,FC Rostov,2,1,FC Orenburg,0.77,0.70
+292,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+293,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
+294,Arsenal Tula,1,1,Dinamo Moscow,1.51,0.97
+295,Ural,3,2,FC Ufa,1.21,1.65
+296,Spartak Moscow,1,0,PFC Sochi,0.89,1.81
+297,FC Rostov,2,1,FC Orenburg,0.77,0.70
+298,Krylya Sovetov Samara,2,0,CSKA Moscow,1.21,0.95
+299,Zenit St. Petersburg,2,1,FC Tambov,1.37,0.32
